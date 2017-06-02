@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/oshoferyuk/async#readme",
   "dependencies": {
-    "async": "^2.4.1"
+    "async": "^2.4.1",
+    "github": "^9.2.0"
   }
 }
